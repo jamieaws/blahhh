@@ -1,3 +1,4 @@
 cd /var/www/html/fake_dir_here
 cp /etc/hosts .
 date >> date_file.log
+whoami >> date_file.log
