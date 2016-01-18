@@ -3,3 +3,4 @@ mkdir -p /var/www/html/fake_dir_here2
 cd /var/www/html/fake_dir_here2
 cp /etc/hosts .
 date >> date_file.log
+whoami >> date_file.log
