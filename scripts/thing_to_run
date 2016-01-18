@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir -p /var/www/html/fake_dir_here2
+cp /etc/hosts .
+date >> date_file.log
